@@ -1,6 +1,11 @@
 {
   "name": "finalproject",
   "version": "1.0.0",
+  "engines": {
+    "node": "9.10.1",
+    "yarn": "1.9.4"
+  },
+
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
