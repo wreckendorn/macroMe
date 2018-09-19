@@ -324,6 +324,7 @@ class Macros extends Component {
                         </select>
                     
                     </label>
+                    <button className="ml-2 btn-secondary rounded-circle p-2 buttonText" onClick={this.handleReset}>Reset</button>
                   </form>
                 </div>
               </div>
