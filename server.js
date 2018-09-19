@@ -69,7 +69,7 @@ app.use(bodyParser.json());
 // passport.deserializeUser(Account.deserializeUser());
 
 //===============
-
+// if(process.env.NODE_ENV !== 'production') require('../secrets');
 
 if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
