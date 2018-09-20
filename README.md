@@ -5,7 +5,7 @@
 * Chris Heckendorn -- https://github.com/wreckendorn
 * Meg Stephens - https://www.linkedin.com/in/meg-stephens-ma-lpc-3a2bb37
 
-## Presentation: https://prezi.com/view/fEgn2zw8oVZvzdBWhnzV/
+## Presentation: https://prezi.com/view/FkbyF6yWBdAcmVnFvaQF/
 
 ## Overview
 The macroMe app provides you with an easy way to find raw ingredients quickly that follow your diet restrictions while keeping a quick visual on the macronutrients. macroMe starts with me, not the ingredient. I set my diet guidelines and immediately begin choosing from a curated list of foods that fall within my preferences. That’s it. I choose a raw ingredient and see what the macronutrients are immediately. I can quickly figure out which foods I may want to add to my meal so it ends with a balanced meal. Or keto. Or vegetarian.
